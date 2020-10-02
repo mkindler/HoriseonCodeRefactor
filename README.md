@@ -52,7 +52,7 @@ Upon analysis of the HTML file and CSS stylesheet, the components that required 
 
 ## Contributing
 
-Please open a New Issue via GitHub for pull requests on this project that includes a describe of what you would like to change.
+Please open a New Issue via GitHub for pull requests on this project that includes a description of what you would like to change.
 
 ## Acknowledgment
 
