@@ -48,7 +48,7 @@ Upon analysis of the HTML file and CSS stylesheet, the components that required 
 
 ## Screenshot of Deployed Website
 
-![image](/relative/path/to/Screenshot_Horiseon.jpg?raw=true "Horiseon Social Solution Services, Inc.")
+![image](HoriseonCodeRefactor/Screenshot_Horiseon.jpg "Horiseon Social Solution Services, Inc.")
 
 ## Contributing
 
@@ -62,4 +62,4 @@ Please open a New Issue via GitHub for pull requests on this project that includ
 
 ## License
 
-![image](/relative/path/to/License.png?raw=true "Horiseon License")
+![alt text](HoriseonCodeRefactor/License.png "Horiseon License")
