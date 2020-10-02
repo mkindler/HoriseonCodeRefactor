@@ -44,7 +44,7 @@ Upon analysis of the HTML file and CSS stylesheet, the components that required 
     - "float-left"
     
     *`section` class="benefits"*
-    - "benefit-block"
+    - "benefits-block"
 
 ## Screenshot of Deployed Website
 
