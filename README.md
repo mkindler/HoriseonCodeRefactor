@@ -46,6 +46,10 @@ Upon analysis of the HTML file and CSS stylesheet, the components that required 
     *`section` class="benefits"*
     - "benefits-block"
 
+## Link to Deployed Website
+
+https://mkindler.github.io/HoriseonCodeRefactor/
+
 ## Screenshot of Deployed Website
 
 ![Horiseon Website Deployment](Screenshot_Horiseon.jpg)
